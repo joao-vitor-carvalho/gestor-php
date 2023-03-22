@@ -35,4 +35,14 @@ Atrana is created by <a href="https://www.facebook.com/andreew.co.id/">Andre Tri
 You can support Andre Tri Ramadana at [Trakteer](https://trakteer.id/atranathemes)
 
 <a href="https://www.buymeacoffee.com/atranathemes" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-# gestor
+
+
+## Gestor em PHP  
+
+-- adpatar páginas em php para versão demonstrativa em html 
+
+-- backend em php e banco de dados mssql para versão local 
+
+-- criar versão sequelize para bd e geração automática 
+
+-- testar funcionalidades e usabilidade em versão web 

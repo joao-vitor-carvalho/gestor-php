@@ -1,4 +1,4 @@
-<h1 align="center">Atrana Dashboard</h1>
+<h1 align="center">Atrana Dashboard Template</h1>
 
 ![Screenshot](https://raw.githubusercontent.com/atranathemes/Atrana-Dashoard/main/example.jpg)
 
@@ -35,4 +35,10 @@ Atrana is created by <a href="https://www.facebook.com/andreew.co.id/">Andre Tri
 You can support Andre Tri Ramadana at [Trakteer](https://trakteer.id/atranathemes)
 
 <a href="https://www.buymeacoffee.com/atranathemes" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-# gestor
+
+
+## Gestor PHP 
+
+-- o back-end para o template está sendo feito em PHP
+
+-- para fins de aprendizado sistêmico e desenvolvimento de novas habilidades, estão sendo testadas novas telas e funcionalidades no sistema

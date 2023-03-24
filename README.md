@@ -1,11 +1,8 @@
-<h1 align="center">Atrana Dashboard</h1>
+<h1 align="center">Gestor PHP</h1>
 
-![Screenshot](https://raw.githubusercontent.com/atranathemes/Atrana-Dashoard/main/example.jpg)
-
-<p align="center">Atrana is an Admin Dashboard Template that can help you grow faster. Made with Bootstrap 5.</p>
+<p align="center">Gestor PHP use an Atrana Admin Dashboard Template that. Made with Bootstrap 5, HTML, CSS, JS and PHP.</p>
 <div align="center">
 
-[![License](https://img.shields.io/github/license/zuramai/mazer.svg)](LICENSE)
 
 </div>
 
@@ -19,16 +16,14 @@
 1. Clone this repository or download as zip.
 
 ```sh
-git clone https://github.com/atranathemes/Atrana.git
+git clone https://github.com/joao-vitor-carvalho/gestor-php
 ```
-
-## License
-
-Atrana is under [MIT License](./LICENSE).
 
 ## Author
 
-Atrana is created by <a href="https://www.facebook.com/andreew.co.id/">Andre Tri Ramadana</a>.
+João Barros created the Back-End with PHP and functionalities changes in the Atrana template. 
+
+Atrana Template is created by <a href="https://www.facebook.com/andreew.co.id/">Andre Tri Ramadana</a>.
 
 ## Donation
 
@@ -39,10 +34,4 @@ You can support Andre Tri Ramadana at [Trakteer](https://trakteer.id/atranatheme
 
 ## Gestor em PHP  
 
--- adpatar páginas em php para versão demonstrativa em html 
-
--- backend em php e banco de dados mssql para versão local 
-
--- criar versão sequelize para bd e geração automática 
-
--- testar funcionalidades e usabilidade em versão web 
+-- adicionar especificações

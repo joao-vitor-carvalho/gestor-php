@@ -35,3 +35,6 @@ You can support Andre Tri Ramadana at [Trakteer](https://trakteer.id/atranatheme
 ## Gestor em PHP  
 
 -- adicionar especificações
+	- versão PHP 
+	- banco de dados 
+	- servidor
